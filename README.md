@@ -1,6 +1,6 @@
 # HEY DAY!
 ## Synopsis
-Hi, Hello, Howdy, Hey! Celebrate Auburn Universitie's **Hey Day** the computational biologists way. Download this script HeyDay and follow along for a fun and interactive way to keep a uninque tradition alive. Don't worry, even an extreme novice can get this one right!
+Hi, Hello, Howdy, Hey! Celebrate Auburn Universitie's **Hey Day** the computational biologists way. Download this script HeyDay and follow along for a fun and interactive way to keep a `uniq` tradition alive.
 
 ## Usage Example
 This just might be the easiest way to celebrate **Hey Day** virtually. In you command line of your linux machine simply execute this script and follow the prompted return value.
